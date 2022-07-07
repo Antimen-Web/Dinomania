@@ -1,0 +1,271 @@
+{"frames": {
+
+"dino1.png":
+{
+	"frame": {"x":0,"y":0,"w":225,"h":397},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":397},
+	"sourceSize": {"w":225,"h":397}
+},
+"dino2.png":
+{
+	"frame": {"x":225,"y":0,"w":225,"h":440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":440},
+	"sourceSize": {"w":225,"h":440}
+},
+"dino3.png":
+{
+	"frame": {"x":450,"y":0,"w":225,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":483},
+	"sourceSize": {"w":225,"h":483}
+},
+"dino4.png":
+{
+	"frame": {"x":675,"y":0,"w":225,"h":526},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":526},
+	"sourceSize": {"w":225,"h":526}
+},
+"dino5.png":
+{
+	"frame": {"x":900,"y":0,"w":225,"h":571},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":571},
+	"sourceSize": {"w":225,"h":571}
+},
+"dino6.png":
+{
+	"frame": {"x":1125,"y":0,"w":225,"h":615},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":615},
+	"sourceSize": {"w":225,"h":615}
+},
+"dino7.png":
+{
+	"frame": {"x":1350,"y":0,"w":225,"h":659},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":659},
+	"sourceSize": {"w":225,"h":659}
+},
+"dino8.png":
+{
+	"frame": {"x":1575,"y":0,"w":225,"h":702},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":702},
+	"sourceSize": {"w":225,"h":702}
+},
+"dino9.png":
+{
+	"frame": {"x":1800,"y":0,"w":225,"h":748},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":748},
+	"sourceSize": {"w":225,"h":748}
+},
+"dino10.png":
+{
+	"frame": {"x":2025,"y":0,"w":225,"h":791},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":791},
+	"sourceSize": {"w":225,"h":791}
+},
+"dino11.png":
+{
+	"frame": {"x":2250,"y":0,"w":225,"h":833},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":833},
+	"sourceSize": {"w":225,"h":833}
+},
+"dino12.png":
+{
+	"frame": {"x":2475,"y":0,"w":225,"h":876},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":876},
+	"sourceSize": {"w":225,"h":876}
+},
+"dino13.png":
+{
+	"frame": {"x":2700,"y":0,"w":225,"h":919},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":919},
+	"sourceSize": {"w":225,"h":919}
+},
+"dino14.png":
+{
+	"frame": {"x":2925,"y":0,"w":225,"h":962},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":962},
+	"sourceSize": {"w":225,"h":962}
+},
+"dino15.png":
+{
+	"frame": {"x":3150,"y":0,"w":225,"h":1006},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1006},
+	"sourceSize": {"w":225,"h":1006}
+},
+"dino16.png":
+{
+	"frame": {"x":3375,"y":0,"w":225,"h":1049},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1049},
+	"sourceSize": {"w":225,"h":1049}
+},
+"dino17.png":
+{
+	"frame": {"x":0,"y":1049,"w":225,"h":1092},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1092},
+	"sourceSize": {"w":225,"h":1092}
+},
+"dino18.png":
+{
+	"frame": {"x":225,"y":1049,"w":225,"h":1135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1135},
+	"sourceSize": {"w":225,"h":1135}
+},
+"dino19.png":
+{
+	"frame": {"x":450,"y":1049,"w":225,"h":1178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1178},
+	"sourceSize": {"w":225,"h":1178}
+},
+"dino20.png":
+{
+	"frame": {"x":675,"y":1049,"w":225,"h":1221},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1221},
+	"sourceSize": {"w":225,"h":1221}
+},
+"dino21.png":
+{
+	"frame": {"x":900,"y":1049,"w":225,"h":1264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1264},
+	"sourceSize": {"w":225,"h":1264}
+},
+"dino22.png":
+{
+	"frame": {"x":1125,"y":1049,"w":225,"h":1307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1307},
+	"sourceSize": {"w":225,"h":1307}
+},
+"dino23.png":
+{
+	"frame": {"x":1350,"y":1049,"w":225,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1350},
+	"sourceSize": {"w":225,"h":1350}
+},
+"dino24.png":
+{
+	"frame": {"x":1575,"y":1049,"w":225,"h":1393},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1393},
+	"sourceSize": {"w":225,"h":1393}
+},
+"dino25.png":
+{
+	"frame": {"x":1800,"y":1049,"w":225,"h":1436},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1436},
+	"sourceSize": {"w":225,"h":1436}
+},
+"dino26.png":
+{
+	"frame": {"x":2025,"y":1049,"w":225,"h":1479},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1479},
+	"sourceSize": {"w":225,"h":1479}
+},
+"dino27.png":
+{
+	"frame": {"x":2250,"y":1049,"w":225,"h":1522},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1522},
+	"sourceSize": {"w":225,"h":1522}
+},
+"dino28.png":
+{
+	"frame": {"x":2475,"y":1049,"w":225,"h":1565},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1565},
+	"sourceSize": {"w":225,"h":1565}
+},
+"dino29.png":
+{
+	"frame": {"x":2700,"y":1049,"w":225,"h":1610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1610},
+	"sourceSize": {"w":225,"h":1610}
+},
+"dino30.png":
+{
+	"frame": {"x":2925,"y":1049,"w":225,"h":1653},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1653},
+	"sourceSize": {"w":225,"h":1653}
+},
+"dino31.png":
+{
+	"frame": {"x":3150,"y":1049,"w":225,"h":1698},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1698},
+	"sourceSize": {"w":225,"h":1698}
+},
+"dino32.png":
+{
+	"frame": {"x":3375,"y":1049,"w":225,"h":1740},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":1740},
+	"sourceSize": {"w":225,"h":1740}
+}},
+"animations": {
+	"dino": ["dino1.png","dino2.png","dino3.png","dino4.png","dino5.png","dino6.png","dino7.png","dino8.png","dino9.png","dino10.png","dino11.png","dino12.png","dino13.png","dino14.png","dino15.png","dino16.png","dino17.png","dino18.png","dino19.png","dino20.png","dino21.png","dino22.png","dino23.png","dino24.png","dino25.png","dino26.png","dino27.png","dino28.png","dino29.png","dino30.png","dino31.png","dino32.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":3600,"h":2789},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aa856572d164242c64a857acc620a27e:9b528277b6fc40a1229ed8e199b73d4d:cbce6b53f0f49e0bf15173c25c41f876$"
+}
+}
